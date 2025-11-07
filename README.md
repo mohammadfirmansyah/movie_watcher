@@ -1,34 +1,18 @@
-# 🎬 Movie Watcher# movie_watcher
+# 🎬 Movie Watcher
 
-
-
-[![Flutter](https://img.shields.io/badge/Flutter-3.9.2-blue?logo=flutter)](https://flutter.dev/)A new Flutter project.
-
+[![Flutter](https://img.shields.io/badge/Flutter-3.9.2-blue?logo=flutter)](https://flutter.dev/)
 [![Dart](https://img.shields.io/badge/Dart-3.9.2-blue?logo=dart)](https://dart.dev/)
-
-[![Firebase](https://img.shields.io/badge/Firebase-Latest-orange?logo=firebase)](https://firebase.google.com/)## Getting Started
-
+[![Firebase](https://img.shields.io/badge/Firebase-Latest-orange?logo=firebase)](https://firebase.google.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Tests](https://img.shields.io/badge/Tests-6%20Passed-success)](test/)
 
-[![Tests](https://img.shields.io/badge/Tests-6%20Passed-success)](test/)This project is a starting point for a Flutter application.
+A modern Flutter application for managing and watching your movie collection. Built with Firebase for real-time synchronization and cloud storage, Movie Watcher allows you to catalog movies with details, images, and video links, making it easy to organize and access your favorite films.
 
-
-
-A modern Flutter application for managing and watching your movie collection. Built with Firebase for real-time synchronization and cloud storage, Movie Watcher allows you to catalog movies with details, images, and video links, making it easy to organize and access your favorite films.A few resources to get you started if this is your first Flutter project:
-
-
-
-## 📚 Documentation- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📚 Documentation
 
 - **[Contributing Guide](CONTRIBUTING.md)** - Learn how to contribute
-
-- **[Changelog](CHANGELOG.md)** - Version history and updatesFor help getting started with Flutter development, view the
-
-- **[Test Documentation](TEST_DOCUMENTATION.md)** - Testing strategy and results[online documentation](https://docs.flutter.dev/), which offers tutorials,
-
-samples, guidance on mobile development, and a full API reference.
+- **[Changelog](CHANGELOG.md)** - Version history and updates
+- **[Test Documentation](TEST_DOCUMENTATION.md)** - Testing strategy and results
 
 ## ✨ Key Features
 
